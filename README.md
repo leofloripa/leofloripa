@@ -5,7 +5,7 @@ I Passionate about life, interpersonal relationships and technology. I believe I
 - 🌱 I love cycling with my son.
 - 💬 Ask me about machine learning, docker, kubernetes, homelab ideas, etc.
 - 😄 Pronouns: he/him
-- 👨‍💻 [Links](https://leofloripa.github.io/me) I study in my spare time and work as a freelancer.
+- 👨‍💻 [Links](https://leofloripa.github.io/) I study in my spare time and work as a freelancer.
 
 <!--
 **leofloripa/leofloripa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

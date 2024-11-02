@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Leonardo
 
-I Passionate about life, interpersonal relationships and technology. I believe I can learn a lot by connecting with people and every challenge comes with a lesson. That's why I try to make the best of difficulties, finding purpose in everything I do. Critical thinking, decision making, problem solving skills these are points that strengthen and motivate me. 😊😄
+ Passionate about technology, I strive to make the most of each challenge and find purpose in what I do. I value critical thinking, decision-making, and problem-solving skills, qualities that strengthen my profile. 🤔😉
 
 - 😄 Pronouns: he/him
 - 👨‍💻 [Links](https://leofloripa.github.io/) I study in my spare time and work as a freelancer.
